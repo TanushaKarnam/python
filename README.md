@@ -1,3 +1,3 @@
 # python
-Author - Tanusha <br>
+Author - Tanusha  Karnam<br>
 Python learning
